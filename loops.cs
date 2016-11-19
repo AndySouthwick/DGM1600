@@ -13,7 +13,7 @@ void Start(){
 public bool wounded;
 
 while(wounded){
-	Debug.Log ("Oof I am hurt");
-	wounded--;
-}
+        Debug.Log ("Oof I am hurt");
+        wounded--;
+    }
 }
